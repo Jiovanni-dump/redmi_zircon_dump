@@ -1,0 +1,14 @@
+{
+    "configs": [
+        {
+            "name": "tplive_list",
+            "config": [
+                "com.ss.android.ugc.aweme.live.LiveBroadcastActivity",
+                "com.dy.liveV2.living.RecorderCameraActivityV2Portrait",
+                "com.dy.liveV2.living.RecorderCameraActivityV2Landscape",
+                "com.duowan.liveroom.LiveRoomActivity",
+                "com.kuaishou.live.anchor.basic.activity.LivePushActivity"
+            ]
+        }
+    ]
+}
